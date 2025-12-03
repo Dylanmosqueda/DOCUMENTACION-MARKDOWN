@@ -3,14 +3,6 @@
 **Alumno:** Dylan Emmanuel Mosquda Lugo
 **Fecha:** 11 de noviembre de 2025
 
----
-* ** Actividad #18
-* **Materia:** Fundamentos de Álgebra
-* **Tema:** [**Documentación de Ejercicios con Git Branches**]
-* **Fecha:** [18/11/2025]
-* **Estudiante:** [Dylan Emmanuel Mosqueda Lugo]
-* **Grupo:** [1ª A]
-
 ## Objetivo de la Documentación
 Documentación de los ejercicios realizados en la Actividad #16, con operaciones de matrices expresadas en formato **LaTeX**.
 
@@ -292,6 +284,7 @@ $$
 Area=∣det⁡(u,v)∣=∣−1∣=1
 
 *Fin del README.*
+
 
 
 
